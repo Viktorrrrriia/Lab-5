@@ -101,11 +101,11 @@ body {
 }
 .img-background--alcohol {
      background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/7b3e88c7a9c4c0f1fa36c59840044c47840ff0c8/%D0%A0%D0%BE%D0%BC.jpg');
-color: #800000
+color: #FFFFF0
 }
 .img-background--black_label{
      background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/7b3e88c7a9c4c0f1fa36c59840044c47840ff0c8/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%82%D0%BA%D0%B0.jpg');
-color: #CD853F;
+color: #FFFFF0;
 }
 
 .img-background--pattern {
