@@ -97,20 +97,20 @@ body {
      background-size: cover;
      background-repeat: no-repeat;
      background-position: center center;
-     color: #808080;
+     color: #fff;
 }
 .img-background--alcohol {
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/7b3e88c7a9c4c0f1fa36c59840044c47840ff0c8/%D0%A0%D0%BE%D0%BC.jpg');
-color: #DCDCDC
+color: #800000
 }
 .img-background--black_label{
      background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/7b3e88c7a9c4c0f1fa36c59840044c47840ff0c8/%D0%A7%D1%91%D1%80%D0%BD%D0%B0%D1%8F%20%D0%BC%D0%B5%D1%82%D0%BA%D0%B0.jpg');
-color: #DCDCDC;
+color: #CD853F;
 }
 
 .img-background--pattern {
      background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://rawcdn.githack.com/Viktorrrrriia/Pictures-for-veb-design/7b3e88c7a9c4c0f1fa36c59840044c47840ff0c8/%D0%9F%D0%B8%D1%80%D0%B0%D1%82%D1%8B.jpg');
-color: #DCDCDC;
+color: #800000;
 }
 .theme-powderblue {
    background: #B0E0E6;
